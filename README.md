@@ -19,7 +19,8 @@
 
 ## Development
 
-- Features custom shaders, 30+ original sprites, - 4 original music tracks, and more
+- The game is developed using Unity and C#
+- Features custom shaders, 30+ original sprites, 4 original music tracks, and more
 
 During the development, I had the opportunity to dive into several new areas of game development. Here are some of the key things I learned:
 
